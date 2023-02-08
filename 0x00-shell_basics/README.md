@@ -1,1 +1,1 @@
-Readme for working current directory 
+changes the working directory to hte users home
