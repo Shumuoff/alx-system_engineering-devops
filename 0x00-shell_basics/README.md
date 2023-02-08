@@ -1,1 +1,1 @@
-changes the working directory to hte users home
+The script display the contents of the directory
