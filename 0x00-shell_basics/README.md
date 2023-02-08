@@ -1,1 +1,1 @@
-display current directory in along format
+Display current directory contents, including hidden files
