@@ -1,2 +1,2 @@
-Write a script that prints all the groups the current user is part of
-the third one
+change the owner of the file
+owner
