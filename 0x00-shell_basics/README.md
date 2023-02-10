@@ -1,2 +1,2 @@
-display with id 
-filedigit
+Create a script that creates a directory named my_first_directory in the
+my first directory
